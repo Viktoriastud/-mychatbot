@@ -1,0 +1,20 @@
+{
+  "label2id": {
+    "date": 0,
+    "goodbye": 1,
+    "greeting": 2,
+    "help": 3,
+    "smalltalk": 4,
+    "time": 5,
+    "weather": 6
+  },
+  "id2label": {
+    "0": "date",
+    "1": "goodbye",
+    "2": "greeting",
+    "3": "help",
+    "4": "smalltalk",
+    "5": "time",
+    "6": "weather"
+  }
+}
