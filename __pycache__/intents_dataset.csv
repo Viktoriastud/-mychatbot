@@ -1,0 +1,39 @@
+text,intent
+привет,greeting
+здравствуй,greeting
+добрый день,greeting
+доброе утро,greeting
+добрый вечер,greeting
+привет бот,greeting
+хай,greeting
+здравствуйте,greeting
+как дела,how_are_you
+как у тебя дела,how_are_you
+что нового,how_are_you
+как настроение,how_are_you
+как поживаешь,how_are_you
+как ты,how_are_you
+все хорошо,how_are_you
+как жизнь,how_are_you
+какая погода в москве,weather
+какая погода в казани,weather
+погода в нижнем новгороде,weather
+скажи погоду в самаре,weather
+что по погоде в спб,weather
+какая сейчас температура в уфе,weather
+будет ли дождь завтра в москве,weather
+погода,weather
+какая погода,weather
+что с погодой,weather
+какая температура на улице,weather
+будет дождь,weather
+ветер сильный сегодня,weather
+холодно ли сегодня,weather
+пока,goodbye
+до свидания,goodbye
+увидимся,goodbye
+до встречи,goodbye
+всего доброго,goodbye
+бай,goodbye
+прощай,goodbye
+до скорого,goodbye
